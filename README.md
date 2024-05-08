@@ -7,6 +7,8 @@ Check out the latest features and improvements in IoCheckout's latest version re
 
 [IoCheckout](https://www.iocheckout.com/)
 
+![Logo](https://content.elightwalk.com/uploads/iocheckout_4ea63e1e4c.png)
+
 ## [v1.4.3](https://www.iocheckout.com/blog/implement-iocheckout-143)
 
 - Support humm payment v100.0.20
