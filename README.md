@@ -39,7 +39,7 @@ f. [afterClickPaymentMethodHook](https://www.iocheckout.com/blog/after-click-pay
 - Set default width and height logo
 - Implement custom field validation hook ( renderFieldValidation )
 
-## [v1.4.0](https://www.iocheckout.com/blog/implement-iocheckout-140) (Dec 13, 2023)
+## [v1.4.0](https://www.iocheckout.com/blog/implement-iocheckout-140)
 - Guest Email Component
 - Store Pickup ( In-Store Delivery ) Component
 - Remove the e-mail field from the shipping and billing address
