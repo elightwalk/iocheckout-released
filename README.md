@@ -12,17 +12,17 @@ Check out the latest features and improvements in IoCheckout's latest version re
 - Implement Openpay Payment Method
 - Implement custom field validation hooks
 
-a. [renderInitAddressFields](https://www.iocheckout.com/blog/render-initaddress-fields-hook-in-iocheckout-process)
+  ☞ [renderInitAddressFields](https://www.iocheckout.com/blog/render-initaddress-fields-hook-in-iocheckout-process)
 
-b. [renderChangeAddressFields](https://www.iocheckout.com/blog/render-change-address-fields-hook)
+  ☞ [renderChangeAddressFields](https://www.iocheckout.com/blog/render-change-address-fields-hook)
 
-c. [beforeRender{$PaymentMethodName}Inner](https://www.iocheckout.com/blog/a-guide-to-before-rendepaymentmethodname-inner-hook)
+  ☞ [beforeRender{$PaymentMethodName}Inner](https://www.iocheckout.com/blog/a-guide-to-before-rendepaymentmethodname-inner-hook)
 
-d. [afterRender{$PaymentMethodName}Inner](https://www.iocheckout.com/blog/integrating-after-renderpaymentmethodname-inner-hooks)
+  ☞ [afterRender{$PaymentMethodName}Inner](https://www.iocheckout.com/blog/integrating-after-renderpaymentmethodname-inner-hooks)
 
-e. [afterUpdateEmailHook](https://www.iocheckout.com/blog/after-update-email-hook-in-iocheckout-process)
+  ☞ [afterUpdateEmailHook](https://www.iocheckout.com/blog/after-update-email-hook-in-iocheckout-process)
 
-f. [afterClickPaymentMethodHook](https://www.iocheckout.com/blog/after-click-payment-method-hook)
+  ☞ [afterClickPaymentMethodHook](https://www.iocheckout.com/blog/after-click-payment-method-hook)
 
 - Fixed banktransfer payment method instructions formating
 - Fixed issue customer address select event.
