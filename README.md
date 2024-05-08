@@ -1,4 +1,4 @@
-# iocheckout-released Note
+# Iocheckout-released Note
 
 IoCheckout Latest Version and Update
 
