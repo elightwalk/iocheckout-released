@@ -1,7 +1,6 @@
 # Iocheckout-Released Note
 
-Check out the latest features and improvements in IoCheckout's latest version release, transform your e-commerce experience.
-
+Check out the latest features and improvements in IoCheckout's latest version release.
 ## [v1.4.3](https://www.iocheckout.com/blog/implement-iocheckout-143)
 
 - Support humm payment v100.0.20
