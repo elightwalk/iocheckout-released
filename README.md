@@ -3,7 +3,7 @@
 Check out the latest features and improvements in IoCheckout's latest version release.
 
 ## 🔗 Links
-[Start 30 Days Free](https://app.iocheckout.com/register)
+[![Start 30 Days Free](https://img.shields.io/badge/Start%2030%20Days%20Free-Blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDEwMCAxMDAiPjxnIGlkPSJMYXllcl8xIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMzYuNDQwNzI1IDU1OC41MjUyNDcpIj4KPHBhdGggZD0iTTAsMTAwIEMtNjcuNTAyNDA5LDEwMC0xMDAsNjcuNTAyNDA5LDEwMCwxMDAgQy0xMDAsNjcuNTAyNDA5LDY3LjUwMjQwOSwxMDAsMTAwIEw2Ny41MDI0MDksMCwxMDAsMHoiIGZpbGw9IiNGRkQzNUMiLz4KPC9nPjwvc3ZnPg==)](https://app.iocheckout.com/register)
 
 [IoCheckout](https://www.iocheckout.com/)
 
